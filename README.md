@@ -1,6 +1,8 @@
 # Projeto-EstruturaDeDados
 
-Repositório com os três trabalhos da disciplina de Estrutura de Dados sob supervisão do professor [Nirton Afonso](https://github.com/NirtonAfonso), implementados em **linguagem C**. Cada trabalho está em sua própria pasta, com código-fonte, executável compilado e arquivo de persistência em CSV.
+Repositório com os três trabalhos da disciplina de Estrutura de Dados do curso de Análise e Desenvolvimento de Sistemas (matutino) sob supervisão do professor [Nirton Afonso](https://github.com/NirtonAfonso), implementados em **linguagem C**. Cada trabalho está em sua própria pasta, com código-fonte, executável compilado e arquivo de persistência em CSV.
+
+Desenvolvido por: [Tiago da E. Soares](https://github.com/engTSoares)
 
 ```
 Projeto-EstruturaDeDados/
